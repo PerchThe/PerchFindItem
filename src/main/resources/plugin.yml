@@ -1,8 +1,9 @@
-name: PerchFindItem
-version: 1.0.0
+name: QSFindItemAddOn
+version: ${project.version}
 main: io.myzticbean.finditemaddon.FindItemAddOn
+website: https://modrinth.com/plugin/shop-search
 api-version: 1.20
-authors: [ KayaLambrex ]
+authors: [ myzticbean ]
 softdepend:
   - QuickShop
   - QuickShop-Hikari
